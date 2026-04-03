@@ -1,4 +1,4 @@
-# 🇷🇸 Serbian Language Chatbot
+# AI Frontend (Student Information System)
 
 A web-based chatbot application focused on Serbian language interaction and conversational assistance.
 
